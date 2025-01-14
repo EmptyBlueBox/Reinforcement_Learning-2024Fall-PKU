@@ -1,0 +1,33 @@
+# Binaries
+*.pdf
+*.zip
+*.npy
+
+# Images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.webp
+!Homework/**/*.png
+
+# Videos
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.wmv
+*.flv
+*.webm
+
+# macOS
+.DS_Store
+
+# vscode
+.vscode
+__MACOSX
+
+# Pycache
+__pycache__
