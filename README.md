@@ -7,6 +7,7 @@
 
 ## Useful Links
 
+- Textbook is in the `Release` section of this Github repository!
 - [My Course Review](https://www.lyt0112.com/blog/course_review-zh)
 - [动手学强化学习](https://hrl.boyuai.com/)
 
